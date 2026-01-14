@@ -1,4 +1,4 @@
-# Soil metagenome workflow for MAG assembly and MicroTrait analysis
+# Soil metagenome workflow for Taxonomy and MAG assembly
 
 Repository containing workflow for:
 
